@@ -1,0 +1,507 @@
+Plant Disease Dataset Statistics
+============================================================
+
+Algal Leaf Spot (Jackfruit):
+  Original: Jackfruit___Algal_Leaf_Spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Anthracnose (Mango):
+  Original: Mango___Anthracnose
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Aphids (Cotton):
+  Original: Cotton___Aphids
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Apple scab (Apple):
+  Original: Apple___Apple_scab
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Bacterial Blight (Cotton):
+  Original: Cotton___Bacterial_Blight
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Bacterial Canker (Mango):
+  Original: Mango___Bacterial_Canker
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Bacterial Leaf Spot (Pumpkin):
+  Original: Pumpkin___Bacterial_Leaf_Spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Bacterial spot (Peach):
+  Original: Peach___Bacterial_spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Bacterial spot (Pepper, bell):
+  Original: Pepper,_bell___Bacterial_spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Bacterial spot (Tomato):
+  Original: Tomato___Bacterial_spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+BacterialBlights (Sugarcane):
+  Original: Sugarcane___BacterialBlights
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Black Rot (Cauliflower):
+  Original: Cauliflower___Black_Rot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Black Spot (Jackfruit):
+  Original: Jackfruit___Black_Spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Black rot (Apple):
+  Original: Apple___Black_rot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Black rot (Grape):
+  Original: Grape___Black_rot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+BrownSpot (Rice):
+  Original: Rice___BrownSpot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Cedar apple rust (Apple):
+  Original: Apple___Cedar_apple_rust
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Cercospora leaf spot Gray leaf spot (Corn (maize)):
+  Original: Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Common rust (Corn (maize)):
+  Original: Corn_(maize)___Common_rust_
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Cutting Weevil (Mango):
+  Original: Mango___Cutting_Weevil
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Die Back (Mango):
+  Original: Mango___Die_Back
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Downy Mildew (Pumpkin):
+  Original: Pumpkin___Downy_Mildew
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Early blight (Potato):
+  Original: Potato___Early_blight
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Early blight (Tomato):
+  Original: Tomato___Early_blight
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Esca (Black Measles) (Grape):
+  Original: Grape___Esca_(Black_Measles)
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Gall Midge (Mango):
+  Original: Mango___Gall_Midge
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Haunglongbing (Citrus greening) (Orange):
+  Original: Orange___Haunglongbing_(Citrus_greening)
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Healthy (Cauliflower):
+  Original: Cauliflower___Healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Healthy (Cotton):
+  Original: Cotton___Healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Healthy (Jackfruit):
+  Original: Jackfruit___Healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Healthy (Mango):
+  Original: Mango___Healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Healthy (Rice):
+  Original: Rice___Healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Healthy (Sugarcane):
+  Original: Sugarcane___Healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Healthy Leaf (Pumpkin):
+  Original: Pumpkin___Healthy_Leaf
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Hispa (Rice):
+  Original: Rice___Hispa
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Late blight (Potato):
+  Original: Potato___Late_blight
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Late blight (Tomato):
+  Original: Tomato___Late_blight
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Leaf Mold (Tomato):
+  Original: Tomato___Leaf_Mold
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Leaf blight (Isariopsis Leaf Spot) (Grape):
+  Original: Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Leaf scorch (Strawberry):
+  Original: Strawberry___Leaf_scorch
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+LeafBlast (Rice):
+  Original: Rice___LeafBlast
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Mosaic (Sugarcane):
+  Original: Sugarcane___Mosaic
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Mosaic Disease (Pumpkin):
+  Original: Pumpkin___Mosaic_Disease
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Northern Leaf Blight (Corn (maize)):
+  Original: Corn_(maize)___Northern_Leaf_Blight
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Powdery Mildew (Cotton):
+  Original: Cotton___Powdery_Mildew
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Powdery Mildew (Mango):
+  Original: Mango___Powdery_Mildew
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Powdery Mildew (Pumpkin):
+  Original: Pumpkin___Powdery_Mildew
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Powdery mildew (Cherry (including sour)):
+  Original: Cherry_(including_sour)___Powdery_mildew
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+RedRot (Sugarcane):
+  Original: Sugarcane___RedRot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Rust (Sugarcane):
+  Original: Sugarcane___Rust
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Septoria leaf spot (Tomato):
+  Original: Tomato___Septoria_leaf_spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Sooty Mould (Mango):
+  Original: Mango___Sooty_Mould
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Spider mites Two-spotted spider mite (Tomato):
+  Original: Tomato___Spider_mites Two-spotted_spider_mite
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Target Spot (Tomato):
+  Original: Tomato___Target_Spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Target spot (Cotton):
+  Original: Cotton___Target_spot
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Tomato Yellow Leaf Curl Virus (Tomato):
+  Original: Tomato___Tomato_Yellow_Leaf_Curl_Virus
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Tomato mosaic virus (Tomato):
+  Original: Tomato___Tomato_mosaic_virus
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+Unknown Disease:
+  Original: Unknown_Disease
+  Total: 500
+  Train: 350
+  Val: 75
+  Test: 75
+
+Yellow (Sugarcane):
+  Original: Sugarcane___Yellow
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Apple):
+  Original: Apple___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Blueberry):
+  Original: Blueberry___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Cherry (including sour)):
+  Original: Cherry_(including_sour)___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Corn (maize)):
+  Original: Corn_(maize)___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Grape):
+  Original: Grape___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Peach):
+  Original: Peach___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Pepper, bell):
+  Original: Pepper,_bell___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Potato):
+  Original: Potato___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Raspberry):
+  Original: Raspberry___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Soybean):
+  Original: Soybean___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Strawberry):
+  Original: Strawberry___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+healthy (Tomato):
+  Original: Tomato___healthy
+  Total: 400
+  Train: 280
+  Val: 60
+  Test: 60
+
+
+Overall Statistics:
+Total Classes: 71
+Train Images: 19950
+Val Images: 4275
+Test Images: 4275
+Total Images: 28500

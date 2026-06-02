@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# ML Data - DO NOT COMMIT KAGGLE DATASETS
+ml/data/
+*.pth
+*.h5
+
+# OS Files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,51 @@
+# ============================================
+# Virtual Environments
+# ============================================
+.venv/
+backend/venv/
+venv/
+ENV/
+env/
+
+# ============================================
+# Python cache / compiled files
+# ============================================
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# ============================================
+# Node / Javascript
+# ============================================
+**/node_modules/
+frontend/dist/
+
+# ============================================
+# Sensitive environment variables
+# ============================================
+**/.env
+**/.env.local
+**/.env.*.local
+
+# ============================================
+# Operating System files
+# ============================================
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Large files - too big for GitHub
+# ============================================
+# Plant disease dataset images (~5.4GB) - EXCLUDED
+plant disease ds/plant_disease_dataset/train/
+plant disease ds/plant_disease_dataset/test/
+
+# Model weights (~43MB) - EXCLUDED
+backend/kissan_disease_model.pth
+
+# ============================================
+# Misc / accidental files in backend
+# ============================================
+backend/cd
+backend/npm
+backend/frontend@0.0.0
